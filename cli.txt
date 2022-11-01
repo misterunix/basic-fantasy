@@ -1,0 +1,13 @@
+-genchar -class 0-6 
+-gemchar -race 0-3
+-genchar <random>
+-genchar -count # ; generate # of characters
+
+
+
+
+dont want to do menu
+
+
+
+-list
