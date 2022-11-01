@@ -1,7 +1,7 @@
 package datatypes
 
 const (
-	STRENGTH = iota
+	STRENGTH = iota + 1
 	DEXTERITY
 	CONSTITUTION
 	INTELLIGENCE
@@ -10,7 +10,7 @@ const (
 )
 
 const (
-	HUMAN = iota
+	HUMAN = iota + 1
 	ELF
 	DWARF
 	HALFLING
