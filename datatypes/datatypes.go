@@ -17,7 +17,7 @@ const (
 )
 
 type Charstats struct {
-	Base  [6]int
+	Base  [7]int
 	Race  int
 	Class int
 	Level int
